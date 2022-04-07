@@ -1,0 +1,11 @@
+[33mcommit 44ca70188d66c1e6ab71b3a6d99c7b86d0989902[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Horotan Gelu <horotangelu17@gmail.com>
+Date:   Thu Apr 7 15:32:22 2022 +0300
+
+    1. Initial Setup
+
+[33mcommit 5ed76e4bd98611f9ac32013b72336dd842dd8194[m
+Author: Horotan Gelu <horotangelu17@gmail.com>
+Date:   Thu Apr 7 15:24:52 2022 +0300
+
+    Initialize project using Create React App
